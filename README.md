@@ -4,6 +4,9 @@ I'm a software engineer with a passion for learning and exploring new technologi
 
 I also like to work as a freelancer, so if you have a project you need help with, I'm here to help you. I'm always open to new opportunities and challenges, so don't hesitate to contact me.
 
+#Further links
+[Codepen](https://codepen.io/KinNeko-De)
+
 ## Projects
 | Name | Motivation | Language | Status |
 | ---- | ----------- | -------- | ------ |
