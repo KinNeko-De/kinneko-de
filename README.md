@@ -7,6 +7,7 @@ I also like to work as a freelancer, so if you have a project you need help with
 ## Further links to my online profiles
 
 [Codepen](https://codepen.io/KinNeko-De)
+[Dev.To](https://dev.to/kinneko-de)
 
 ## Projects
 | Name | Motivation | Language | Status |
